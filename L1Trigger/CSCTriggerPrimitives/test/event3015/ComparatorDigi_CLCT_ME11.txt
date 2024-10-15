@@ -1,0 +1,26 @@
+Run 1 Event 3015 CSCChamber with Comparatordigi: (end,station,ring,chamber) = 1, 1, 1, 30
+Comparatordigi BX 7 Layer 0 halfstrip 200
+Comparatordigi BX 7 Layer 2 halfstrip 200
+Comparatordigi BX 7 Layer 3 halfstrip 200
+Comparatordigi BX 7 Layer 4 halfstrip 200
+Comparatordigi BX 7 Layer 5 halfstrip 200
+Comparatordigi BX 8 Layer 1 halfstrip 200
+CSC CLCT #1: Valid = 1 BX = 7 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 6 Comp Code 4095 Bend = 1
+ Slope = 0 CFEB = 6 Strip = 8 KeyHalfStrip = 200 KeyQuartStrip = 400 KeyEighthStrip = 801
+GEMCluster in GE11 layer2: bx 7 gemPad 144 size 2 roll 8 converted into CSC coordination: wiregroup 7 halfstrip 94
+GEMCluster in GE11 layer1: bx 8 gemPad 143 size 2 roll 8 converted into CSC coordination: wiregroup 7 halfstrip 93
+CSC LCT #1: Valid = 1 BX = 8 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 5 Bend = 1 Slope = 2
+ KeyHalfStrip = 200 KeyQuartStrip = 400 KeyEighthStrip = 801 KeyWireGroup = 7 Type (SIM) = 2 MPC Link = 0
+Run 1 Event 3015 CSCChamber with Comparatordigi: (end,station,ring,chamber) = 2, 1, 1, 11
+Comparatordigi BX 6 Layer 0 halfstrip 139
+Comparatordigi BX 7 Layer 3 halfstrip 140
+Comparatordigi BX 7 Layer 4 halfstrip 140
+Comparatordigi BX 7 Layer 5 halfstrip 140
+Comparatordigi BX 8 Layer 2 halfstrip 140
+Comparatordigi BX 9 Layer 1 halfstrip 140
+CSC CLCT #1: Valid = 1 BX = 7 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 6 Comp Code 4094 Bend = 1
+ Slope = 1 CFEB = 4 Strip = 12 KeyHalfStrip = 140 KeyQuartStrip = 280 KeyEighthStrip = 560
+GEMCluster in GE11 layer1: bx 8 gemPad 177 size 2 roll 8 converted into CSC coordination: wiregroup 7 halfstrip 13
+GEMCluster in GE11 layer2: bx 9 gemPad 177 size 1 roll 8 converted into CSC coordination: wiregroup 7 halfstrip 13
+CSC LCT #1: Valid = 1 BX = 8 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 5 Bend = 1 Slope = 1
+ KeyHalfStrip = 140 KeyQuartStrip = 280 KeyEighthStrip = 560 KeyWireGroup = 9 Type (SIM) = 2 MPC Link = 0

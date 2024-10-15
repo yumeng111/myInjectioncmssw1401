@@ -1,0 +1,33 @@
+Run 1 Event 3015 CSCChamber with Comparatordigi: (end,station,ring,chamber) = 1, 2, 1, 15
+Comparatordigi BX 6 Layer 2 halfstrip 147
+Comparatordigi BX 6 Layer 3 halfstrip 148
+Comparatordigi BX 7 Layer 4 halfstrip 148
+Comparatordigi BX 7 Layer 5 halfstrip 149
+Comparatordigi BX 8 Layer 1 halfstrip 149
+CSC CLCT #1: Valid = 1 BX = 7 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 5 Comp Code 4012 Bend = 1
+ Slope = 0 CFEB = 4 Strip = 19 KeyHalfStrip = 147 KeyQuartStrip = 295 KeyEighthStrip = 591
+CSC LCT #1: Valid = 1 BX = 8 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 3 Bend = 1 Slope = 0
+ KeyHalfStrip = 147 KeyQuartStrip = 295 KeyEighthStrip = 591 KeyWireGroup = 29 Type (SIM) = 1 MPC Link = 0
+Run 1 Event 3015 CSCChamber with Comparatordigi: (end,station,ring,chamber) = 2, 2, 1, 6
+Comparatordigi BX 5 Layer 0 halfstrip 95
+Comparatordigi BX 6 Layer 1 halfstrip 97
+Comparatordigi BX 6 Layer 3 halfstrip 97
+Comparatordigi BX 6 Layer 4 halfstrip 96
+Comparatordigi BX 6 Layer 5 halfstrip 66
+Comparatordigi BX 6 Layer 5 halfstrip 96
+Comparatordigi BX 7 Layer 1 halfstrip 117
+Comparatordigi BX 7 Layer 2 halfstrip 96
+Comparatordigi BX 7 Layer 2 halfstrip 117
+Comparatordigi BX 7 Layer 3 halfstrip 117
+Comparatordigi BX 7 Layer 4 halfstrip 88
+Comparatordigi BX 7 Layer 4 halfstrip 101
+Comparatordigi BX 8 Layer 1 halfstrip 106
+Comparatordigi BX 8 Layer 2 halfstrip 104
+Comparatordigi BX 8 Layer 3 halfstrip 102
+Comparatordigi BX 8 Layer 5 halfstrip 89
+CSC CLCT #1: Valid = 1 BX = 6 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 6 Comp Code 3070 Bend = 1
+ Slope = 0 CFEB = 3 Strip = 0 KeyHalfStrip = 96 KeyQuartStrip = 192 KeyEighthStrip = 384
+CSC LCT #1: Valid = 1 BX = 8 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 3 Bend = 1 Slope = 0
+ KeyHalfStrip = 96 KeyQuartStrip = 192 KeyEighthStrip = 384 KeyWireGroup = 32 Type (SIM) = 1 MPC Link = 0
+CSC LCT #2: Valid = 1 BX = 8 Run-2 Pattern = 10 Run-3 Pattern = 4 Quality = 3 Bend = 1 Slope = 0
+ KeyHalfStrip = 96 KeyQuartStrip = 192 KeyEighthStrip = 384 KeyWireGroup = 29 Type (SIM) = 1 MPC Link = 0
